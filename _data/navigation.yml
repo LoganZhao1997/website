@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "CV/Bio"
-    url: /publications/
+    url: /cv/
     
   - title: "Researchs"
     url: /publications/     
         
   - title: "Personal"
-    url: /year-archive/
+    url: /personal/
     
 
 
