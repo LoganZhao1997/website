@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Zhao, Wentao (赵文涛)"
 permalink: /cv/
 author_profile: true
 redirect_from:
