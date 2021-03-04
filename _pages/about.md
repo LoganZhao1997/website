@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in Industrial Engineering and Operations Research at <u>Columbia University</u>. I received my Bachelor's degree in Mechanical Engineering from <u>Zhejiang University</u> and was a research assistant at <u>University of Wisconsin-Madison</u>. My supervisors at two universities are [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/) and  [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/) respectively. Click [here](http://www.wentaozhao.org/files/cv.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (wz2543@columbia.edu)](mailto:wz2543@columbia.edu).
+I am a M.S. student in Industrial Engineering and Operations Research at <u>Columbia University</u>. I received my Bachelor's degree in Mechanical Engineering from <u>Zhejiang University</u> and was a research assistant at <u>University of Wisconsin-Madison</u>. My supervisors at two universities are [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/) and [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/), respectively. Click [here](http://www.wentaozhao.org/files/cv.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (wz2543@columbia.edu)](mailto:wz2543@columbia.edu).
 
 
 ## Research Interests
