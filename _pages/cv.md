@@ -31,6 +31,16 @@ redirect_from:
   Supervisor: [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)
   
   
+## Awards & Honors
+
+* **Advanced Honor Class of Engineering Education** (Honor Program of Engineering College).
+* **FESTO Scholarship for Outstanding Undergraduates** (10%, Mechanical Engineering Department Nomination), [The FESTO Scholarship](http://sklofp.zju.edu.cn/imce/2020/0602/c27873a2146402/page.htm). 2019
+* **Jingsheng Electromechanical Scholarship** (First Honor, 5%, selected excellent students). 2019
+* **Research Special Scholarship** （10%, selected excellent research students）2019
+* **Zhejiang Provincial Government Scholarship** (10%, selected excellent students). 2018
+* **Zhejiang University Second-Class Scholarship** (15%). 2017
+
+
 ## Research experience
 * 2019.5-2019.9, research student, [Industrial Engineering Department](https://www.engr.wisc.edu/department/industrial-systems-engineering/) , University of Wisconsin-Madison
 
