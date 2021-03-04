@@ -18,7 +18,7 @@ Co-worker: Yikang Hua
 
 ## Design Optimization of Composite Wind Turbine Blades
 *Zhejiang University, Sep 2018 ~ Apr 2019*  
-*Advisor*:  [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087)/
+*Advisor*:  [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087)/n
 Co-worker: [Prof. Yeqing Wang](https://scholar.google.com/citations?user=neVf4uIAAAAJ&hl=en)  
 * Modeled and estimated the occurrence of dielectric breakdown damage on the surface of wind turbine blades.
 * Co-designed an optimization framework integrating realistic lightning strike electrostatic and fatigue analyses as a means to design reliable and economical composite wind turbine blades.
