@@ -7,7 +7,7 @@ author_profile: true
 
 ------
 ## Energy-Sponge Electric Vehicle Sharing System Design
-*University of Wisconsin-Madison, May 2019 ~ May 2021*  
+*University of Wisconsin-Madison, May 2019 ~ Dec 2020*  
 *Advisor*:  [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)  
 Co-worker: Yikang Hua  
 
