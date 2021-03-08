@@ -19,7 +19,7 @@ I am a M.S. student in Industrial Engineering and Operations Research at <u>Colu
  
 ### Application: 
 * Shared Mobility
-* Transportation System
+* Design Optimization
 
 
 ## PUBLICATIONS
