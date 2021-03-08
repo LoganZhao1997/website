@@ -42,7 +42,9 @@ redirect_from:
 
 
 ## Research experience
-* 2019.5-2019.9, research student, [Industrial Engineering Department](https://www.engr.wisc.edu/department/industrial-systems-engineering/) , University of Wisconsin-Madison
+* 2020.8-2021.3, remote research assistant, [Industrial Engineering Department](https://www.engr.wisc.edu/department/industrial-systems-engineering/) , University of Wisconsin-Madison
+
+* 2019.5-2019.9, research assistant, [Industrial Engineering Department](https://www.engr.wisc.edu/department/industrial-systems-engineering/) , University of Wisconsin-Madison
 
 * 2018.9-2019.4, research assistant, [Mechanical Engineering Department](http://me.zju.edu.cn/meenglish/15428/list.htm/) , Zhejiang University
 
