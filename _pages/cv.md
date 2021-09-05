@@ -15,20 +15,20 @@ redirect_from:
 ## Education
 
 * **M.S. in Industrial Engineering and Operations Research, Columbia University**  
-  Sep. 2020 ~ Now  
-  Instructor: 
+  Sep. 2020 ~ Dec 2021   
   Courses: Linear Programming, Discrete Optimization, Convex Optimization, Machine Learning, Reinforcement Learning, Real Analysis
+  Advisors: [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di), [Prof. Shipra Agrawa](https://www.engineering.columbia.edu/faculty/shipra-agrawal) 
   
 * **B.Eng. in Mechanical Engineering, Zhejiang University**  
   Sep. 2016 ~ Jun. 2020  
   Courses: Control Algorithm, Data Structure, mathematical modeling
-  Instructor: [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/)
+  Advisor: [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/)
 
 	
 * **Visiting International Student in  Industrial Engineering, University of Wisconsin-Madison**  
   Jan. 2019 ~ Aug. 2019   
   Course: Stochastic Process, Simulation Modeling and Analysis, Decision Analysis
-  Supervisor: [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)
+  Advisor: [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)
   
   
 ## Awards & Honors
