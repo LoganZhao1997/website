@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-## Machine Learning for Combinatorial Optimization(https://www.ecole.ai/2021/ml4co-competition/)
+## [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/)
 NeurIPS 2021 Competition, Jun 2021 ~ Oct 2021 
 *Advisor*:  [Prof. Shipra Agrawa](https://www.engineering.columbia.edu/faculty/shipra-agrawal) 
 Collaborator: Abhi Gupta
@@ -15,7 +15,7 @@ The Machine Learning for Combinatorial Optimization NeurIPS 2021 competition aim
 
 
 
-## Amazon Last Mile Routing Research Challenge(https://routingchallenge.mit.edu/)
+## [Amazon Last Mile Routing Research Challenge](https://routingchallenge.mit.edu/)
 Amazon & MIT, Mar 2021 ~ Jun 2021  
 *Advisor*:  [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di)
 
