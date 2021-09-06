@@ -16,8 +16,8 @@ wait to be written
 *Remote, Jul 2020 ~ Apr 2021*  
 *Advisor*:  [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)  
 Collaborator: Yikang Hua  
-
-wait to be written
+* Proposed a stochastic model to integrate spattio-temporally fluctuant and correlated renewable energy sources into the electric vehicle sharing system 
+* Established an optimzation framework combining stochastic programming and adjusted robust optimization with correlation to solve the model
 
 
 ## Energy-Sponge Electric Vehicle Sharing System Design
@@ -25,9 +25,11 @@ wait to be written
 *Advisor*:  [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)  
 Collaborator: Yikang Hua  
 
-The rising prevalence of Electric Vehicles (EVs) raises an opportunity to create a new vehicle sharing service where a spatially-distributed EV fleet serves as a backup reservation interfacing with both the transportation and power grid systems. While this “energy sponge” service is promising to mitigate demand disturbances and improve system resilience, its implementation requires overcoming several critical challenges under the perspective of power grid limitations and complicated vehicle management. To this end, we establish a profit-driven planning framework to provide systematic management strategies for such an EV sharing system. In particular, we build a two-stage stochastic model to generate sustainable management strategies considering the stochastic spatiotemporal fluctuations of the requests for this new service. In our model, the bid process of an EV fleet operator in the day-ahead energy and reserve market constitutes the first stage, which is optimized based upon macroscopic modeling on the next-day operations of the EV fleet as the second stage. Interesting managerial insights on bid strategies are obtained through numerical experiments. 
-
+* Implemented a two-stage stochastic model to simulate the daily operation of the electric vehicle sharing system and its interaction with the power grid and deal with the temporal-spatial uncertainty of passenger order demand
+* Solved the model via L-shape method, sample average approxmiation using Gurobi and conducted a sophisticated real case study for the vehilce sharing system in Austin
+* Presented the results in *Transportation Research Board 2021* **(Post)** [POST](http://www.wentaozhao.org/files/TRB2021_post.pdf) 
 ![](http://www.wentaozhao.org/files/EVS_system.png)
+
 
 ## Design Optimization of Composite Wind Turbine Blades
 *Zhejiang University, Sep 2018 ~ Apr 2019*  
