@@ -36,7 +36,7 @@ The rising prevalence of Electric Vehicles (EVs) raises an opportunity to create
 * Modeled both the lightning strike dielectric breakdown failure and multi-axial fatigue failure mechanisms for structural design of composite wind turbine blades
 * Proposed a design optimization framework which integrates realistic lightning strike electrostatic and fatigue analyses for designing reliable and economical composite wind turbine blades
 * Conducted a case study of the structural design optimization of a 5 MW composite wind turbine blade using the framework with two optimization solvers: sequential quadratic programming and Bayesian optimization 
-* Paper published in *North America Wind Energy Academy WindTech 2019 Conference* **(Presentation)** [PPT](http://www.wentaozhao.org/files/NAWEA_ppt.pdf) [doi](https://doi.org/10.1088/1742-6596/1452/1/012049) 
-* Paper published in *Engineering Optimization* [doi](https://doi.org/10.1080/0305215X.2019.1690649)
+* First paper published in *North America Wind Energy Academy WindTech 2019 Conference* **(Presentation)** [PPT](http://www.wentaozhao.org/files/NAWEA_ppt.pdf) [doi](https://doi.org/10.1088/1742-6596/1452/1/012049) 
+* Second paper published in *Engineering Optimization* [doi](https://doi.org/10.1080/0305215X.2019.1690649)
 
 ![](http://www.wentaozhao.org/files/WindTurbine.png)
