@@ -43,5 +43,5 @@ The rising prevalence of Electric Vehicles (EVs) raises an opportunity to create
 
 
 <p align="center">
-  <img width="1000" height="800" src="http://www.wentaozhao.org/files/WindTurbine.png">
+  <img width="400" height="320" src="http://www.wentaozhao.org/files/WindTurbine.png">
 </p>
