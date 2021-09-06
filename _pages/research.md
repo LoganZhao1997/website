@@ -40,5 +40,5 @@ The rising prevalence of Electric Vehicles (EVs) raises an opportunity to create
 * Second paper published in *Engineering Optimization* [doi](https://doi.org/10.1080/0305215X.2019.1690649)
 
 <figure class="half">
-  <img width="100" height="80" src="http://www.wentaozhao.org/files/WindTurbine.png"><img width="100" height="80" src="http://www.wentaozhao.org/files/wind_Turbine.png">
+  <img width="100" height="80" src="http://www.wentaozhao.org/files/WindTurbine.png"/><img width="100" height="80" src="http://www.wentaozhao.org/files/wind_Turbine.png"/>
 </figure>
