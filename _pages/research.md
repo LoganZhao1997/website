@@ -28,7 +28,7 @@ Collaborator: Yikang Hua
 * Implemented a two-stage stochastic model to simulate the daily operation of the electric vehicle sharing system and its interaction with the power grid and deal with the temporal-spatial uncertainty of passenger order demand
 * Solved the model via L-shape method, sample average approxmiation using Gurobi and conducted a sophisticated real case study for the vehilce sharing system in Austin
 * Presented the results in *Transportation Research Board 2021* **(Post)** [POST](http://www.wentaozhao.org/files/TRB2021_post.pdf) 
-<img width="100" height="80" src="http://www.wentaozhao.org/files/EVS_system.png">
+<img width="200" height="160" src="http://www.wentaozhao.org/files/EVS_system.png">
 
 
 ## Design Optimization of Composite Wind Turbine Blades
