@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in Industrial Engineering and Operations Research at <u>Columbia University</u>. I received my Bachelor's degree in Mechanical Engineering from <u>Zhejiang University</u> and was a research assistant at <u>University of Wisconsin-Madison</u>. My supervisors at two universities are [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/) and [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/), respectively. Click [here](http://www.wentaozhao.org/files/cv.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (wz2543@columbia.edu)](mailto:wz2543@columbia.edu).
+I am a M.S. student in Industrial Engineering and Operations Research at Columbia University. I received my Bachelor's degree in Mechanical Engineering from Zhejiang University and was a visiting student at University of Wisconsin-Madison. My supervisors at three universities are [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di), [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/), and [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/), respectively. Click [here](http://www.wentaozhao.org/files/cv.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (wz2543@columbia.edu)](mailto:wz2543@columbia.edu).
 
 
 ## RESEARCH INTEREST
+My research interest lies in developing models and algorithms in the combination of operations research and machine learning for real-world decision-making problems. I regard answering the following questions as my academic goal:
 
-### Methodologies: 
-* Stochastic Programming
-* Robust Optimization
- 
-### Application: 
-* Shared Mobility
-* Design Optimization
+**Methodology** Is machine learning a viable option for improving traditional optimization algorithms on specific problem distributions, when historical data is available? How to improvie the state-of-art optimization algorithms by replacing key heuristic components with machine learning models? 
+
+**Application** How large-scale transportation and logistics problems can be integrated with machine learning? 
 
 
 ## PUBLICATIONS
