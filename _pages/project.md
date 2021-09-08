@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Competitions"
-permalink: /competition/
+title: "Projects"
+permalink: /project/
 author_profile: true
 ---
 
