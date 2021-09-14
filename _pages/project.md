@@ -24,7 +24,7 @@ Amazon & MIT Research Challenge, Mar 2021 ~ Jun 2021<br>
 Collaborator: Chen Jing, Yunhao Xing
 
 - Realized an attention model in the Transformer architecture for route optimization problems under realistically sized problem instances
-- Trained the model via reinforcement learning and imitation learning; Conducted experiments to compare these training methods
+- Trained the model via reinforcement learning and imitation learning; Conducted experiments to compare these training methods<br>
 [certificates](http://www.wentaozhao.org/files/Certificate_of_Participation.pdf), 
 [code](https://github.com/LoganZhao1997/last_mile_challenge)
 
