@@ -15,6 +15,8 @@ Collaborator: Abhi Gupta
 - Developed a training method in a combination of behavior cloning and parallel evolutionary algorithm
 - Designed and built a Singularity container for running and evaluating algorithms on the high-performance computing cluster
 
+<img width="200" height="160" src="https://github.com/LoganZhao1997/wentaozhao.github.io/blob/b35bfe1b20b92e559ac5c961ec07c88bba755be8/files/ml4co_pic.png">
+
 
 ## [Amazon Last Mile Routing Research Challenge](https://routingchallenge.mit.edu/)
 Amazon & MIT, Mar 2021 ~ Jun 2021  
@@ -23,5 +25,7 @@ Collaborator: Chen Jing, Yunhao Xing
 
 - Realized an attention model in the Transformer architecture for route optimization problems under realistically sized problem instances
 - Trained the model via reinforcement learning and imitation learning; Conducted experiments to compare these training methods
-[certificates](https://github.com/LoganZhao1997/wentaozhao.github.io/blob/f2b1022e8e976e7e37a56477b73a34a6805fcbd4/files/Certificate_of_Participation.pdf)
+[certificates](https://github.com/LoganZhao1997/wentaozhao.github.io/blob/f2b1022e8e976e7e37a56477b73a34a6805fcbd4/files/Certificate_of_Participation.pdf), 
 [code](https://github.com/LoganZhao1997/last_mile_challenge)
+
+<img width="200" height="160" src="https://github.com/LoganZhao1997/wentaozhao.github.io/blob/b35bfe1b20b92e559ac5c961ec07c88bba755be8/files/last_mile_pic.jpg">
