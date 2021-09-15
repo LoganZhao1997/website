@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-## An End-to-End Machine Learning Approach for Vechile Sharing Operation
+## An End-to-End Machine Learning Approach for Vechile Sharing System Operations
 *Columbia University, Jun 2021 ~ Dec 2021*  
 *Advisor*:  [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di)
 
