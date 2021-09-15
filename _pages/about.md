@@ -35,5 +35,5 @@ My research interest lies in developing models and algorithms leveraging operati
 
 ## WORKING PAPERS 
 * **Wentao Zhao**, Yikang Hua, Xin Wang, Optimized Energy-Sponge Electric Vehicle Sharing System with Integration of Renewable Energy 
-* **Wentao Zhao**, Xuan Di, An End-to-End Machine Learning Approach for Vechile Sharing System Operations
+* **Wentao Zhao**, Xuan Di, An End-to-End Machine Learning Approach for Vehicle Sharing System Operations
 
