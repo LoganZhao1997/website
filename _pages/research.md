@@ -7,7 +7,7 @@ author_profile: true
 
 ------
 ## An End-to-End Machine Learning Approach for Vechile Sharing System Operations
-*Columbia University, Jun 2021 ~ Dec 2021*  
+*Columbia University, Jun. 2021 ~ Dec. 2021*  
 *Advisor*:  [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di)
 
 - Developed a learning-based approach for managing carpooling, order-vehicle matching, and idle vehicle relocation in the vehicle sharing system
@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Optimized Energy-Spong Electric Vehicle Sharing System with Integration of Renewable Energy
-*Remote, Jul 2020 ~ Apr 2021*  
+*Remote, Jul. 2020 ~ Mar. 2021*  
 *Advisor*:  [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)  
 Collaborator: Yikang Hua  
 
@@ -30,7 +30,7 @@ Collaborator: Yikang Hua
 
 
 ## Energy-Sponge Electric Vehicle Sharing System Design
-*University of Wisconsin-Madison, May 2019 ~ May 2020*  
+*University of Wisconsin-Madison, May 2019 ~ Jan. 2020*  
 *Advisor*:  [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)  
 Collaborator: Yikang Hua  
 
@@ -42,7 +42,7 @@ Collaborator: Yikang Hua
 
 
 ## Design Optimization of Composite Wind Turbine Blades
-*Zhejiang University, Sep 2018 ~ Apr 2019*  
+*Zhejiang University, Sept. 2018 ~ Apr. 2019*  
 *Advisor*:  [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/)
 
 - Modeled both the lightning strike dielectric breakdown failure and multi-axial fatigue failure mechanisms for the structural design of composite wind turbine blades
