@@ -14,7 +14,7 @@ author_profile: true
 - Proposed an adaptive matching strategy including the application of graph convolutional neural network with guided search algorithm and a training approach that ensembles imitation learning and evolutionary strategy
 - Conducted a series of experiments and showed that the proposed method outperformed the traditional heuristic algorithm in terms of customer satisfaction and computation efficiency
 
-<img width="200" height="160" src="http://www.wentaozhao.org/files/ML_rideshare.PNG"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
+<img width="400" height="320" src="http://www.wentaozhao.org/files/ML_rideshare.PNG"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
 
 
 ## Optimized Energy-Spong Electric Vehicle Sharing System with Integration of Renewable Energy
@@ -26,7 +26,7 @@ Collaborator: Yikang Hua
 - Designed a data-driven approach for dealing with renewable energy's temporal-spatial correlation and distribution uncertainty
 - Proved that the budget-constrained adjustable robust optimization under correlated uncertainty can be linearized by adding auxiliary variables and extra constraints
 
-<img width="200" height="160" src="http://www.wentaozhao.org/files/EVS_renewable_energy.png">
+<img width="400" height="320" src="http://www.wentaozhao.org/files/EVS_renewable_energy.png">
 
 
 ## Energy-Sponge Electric Vehicle Sharing System Design
@@ -38,7 +38,7 @@ Collaborator: Yikang Hua
 - Developed an optimization approach that incorporates the temporal-spatial uncertainty of passenger order demand
 - Solved the model via the combination of the L-shape method and the sample average approximation method using Gurobi
 
-<img width="200" height="160" src="http://www.wentaozhao.org/files/EVS.jpg">
+<img width="400" height="320" src="http://www.wentaozhao.org/files/EVS.jpg">
 
 
 ## Design Optimization of Composite Wind Turbine Blades
