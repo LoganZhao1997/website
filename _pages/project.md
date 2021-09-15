@@ -19,7 +19,7 @@ Collaborator: Abhi Gupta
 
 
 ## [Amazon Last Mile Routing Research Challenge](https://routingchallenge.mit.edu/)
-Amazon & MIT Research Challenge, Mar 2021 ~ Jun 2021<br>  
+Amazon & MIT Research Challenge, Mar 2021 ~ Jun 2021  
 *Advisor*:  [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di)<br>
 Collaborator: Chen Jing, Yunhao Xing
 
