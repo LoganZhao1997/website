@@ -38,14 +38,7 @@ redirect_from:
 * **Jingsheng Electromechanical Scholarship** (First Honor, 5%, selected excellent students). 2019
 * **Research Special Scholarship** （10%, selected excellent research students）2019
 * **Zhejiang Provincial Government Scholarship** (10%, selected excellent students) 2018
-* **Zhejiang University Second-Class Scholarship** (15%) 2017
 
 
-## Research experience
-* 2020.8-2021.3, remote research assistant, [Industrial Engineering Department](https://www.engr.wisc.edu/department/industrial-systems-engineering/) , University of Wisconsin-Madison
-
-* 2019.5-2019.9, research assistant, [Industrial Engineering Department](https://www.engr.wisc.edu/department/industrial-systems-engineering/) , University of Wisconsin-Madison
-
-* 2018.9-2019.4, research assistant, [Mechanical Engineering Department](http://me.zju.edu.cn/meenglish/15428/list.htm/) , Zhejiang University
 
 
