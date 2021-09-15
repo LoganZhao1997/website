@@ -14,7 +14,7 @@ author_profile: true
 - Proposed an adaptive matching strategy including the application of graph convolutional neural network with guided search algorithm and a training approach that ensembles imitation learning and evolutionary strategy
 - Conducted a series of experiments and showed that the proposed method outperformed the traditional heuristic algorithm in terms of customer satisfaction and computation efficiency
 
-<img width="400" height="320" src="http://www.wentaozhao.org/files/ML_rideshare.PNG"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
+<img width="800" height="640" src="http://www.wentaozhao.org/files/ML_rideshare.PNG"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
 
 
 ## Optimized Energy-Spong Electric Vehicle Sharing System with Integration of Renewable Energy
