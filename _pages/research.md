@@ -10,8 +10,9 @@ author_profile: true
 *Columbia University, Jun. 2021 ~ Dec. 2021*  
 *Advisor*:  [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di)
 
-- Developed a learning-based approach for managing carpooling, order-vehicle matching, and idle vehicle relocation in the vehicle sharing system
-- Proposed an adaptive matching strategy including the application of graph convolutional neural network with guided search algorithm and a training approach that ensembles imitation learning and evolutionary strategy
+- Developed a shared fleet simulation environment leveraging the historical taxi data in New York for testing different management strategies
+- Proposed a learning-based approach that embeds a graph convolutional neural network model into a local search algorithm to learn the matching policy in the vehicle sharing operations
+- Designed a novel training method that ensembles imitation learning and evolutionary strategy; Trained the model to imitate the Blossom algorithm first and self-evolute by interacting with the environment
 - Conducted a series of experiments and showed that the proposed method outperformed the traditional heuristic algorithm in terms of customer satisfaction and computation efficiency
 
 <img width="800" height="640" src="http://www.wentaozhao.org/files/ML_rideshare.PNG"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
@@ -22,9 +23,9 @@ author_profile: true
 *Advisor*:  [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)  
 Collaborator: Yikang Hua  
 
-- Proposed a robust optimization model for scheduling charging and daily operations of electric vehicle sharing system with renewable energy integrated
-- Designed a data-driven approach for dealing with renewable energy's temporal-spatial correlation and distribution uncertainty
-- Proved that the budget-constrained adjustable robust optimization under correlated uncertainty can be linearized by adding auxiliary variables and extra constraints
+- Proposed a robust and stochastic optimization model for a spatially distributed electric vehicle fleet w renewable energy integrated to serve as a backup reservation interfacing with transportation and power grid system
+- Developed a data-driven approach for constructing uncertainty set in robust optimization to deal with the temporal-spatial correlation in uncertain renewable energy generation and avoid over-conservative
+- Proved that the above robust and stochastic optimization model under correlated uncertainty can be linearized by adding auxiliary variables and extra constraints
 
 <img width="400" height="320" src="http://www.wentaozhao.org/files/EVS_renewable_energy.png">
 
@@ -34,9 +35,9 @@ Collaborator: Yikang Hua
 *Advisor*:  [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)  
 Collaborator: Yikang Hua  
 
-- Implemented a two-stage stochastic model to simulate the daily operation of the shared electric vehicle fleet and its interaction with the power grid
-- Developed an optimization approach that incorporates the temporal-spatial uncertainty of passenger order demand
-- Solved the model via the combination of the L-shape method and the sample average approximation method using Gurobi
+- Established a profit-driven planning framework for electric vehicle sharing system to optimize its strategies in energy bidding, serving customers, charging, and relocation
+- Implemented a two-stage stochastic model for electric vehicle sharing management incorporating the uncertainty of customer demand in spatiality, temporality, and quantity
+- Built and solved the stochastic model via Python and Gurobi; Conducted a case study in Austin to demonstrate the managerial insights
 
 <img width="400" height="320" src="http://www.wentaozhao.org/files/EVS.jpg">
 
@@ -48,7 +49,6 @@ Collaborator: Yikang Hua
 - Modeled both the lightning strike dielectric breakdown failure and multi-axial fatigue failure mechanisms for the structural design of composite wind turbine blades
 - Proposed a design optimization framework that integrates realistic lightning strike electrostatic and fatigue analyses for designing reliable and economical composite wind turbine blades
 - Conducted a case study of the structural design optimization of a 5 MW composite wind turbine blade using the framework with two optimization solvers: sequential quadratic programming and Bayesian optimization
-
 
 <figure class="half">
   <img width="80" height="64" src="http://www.wentaozhao.org/files/WindTurbine.png">
