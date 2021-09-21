@@ -12,9 +12,9 @@ I am a M.S. student in Industrial Engineering and Operations Research at Columbi
 
 
 ## RESEARCH INTEREST
-My research interest lies in developing models and algorithms leveraging operations research and machine learning for real-world decision-making problems. Specifically, I regard answering the following question as my academic goal: how to combine operations research and machine learning to design objectives-driven, learning-based approaches that outperform traditional, optimization-driven methods? Overall, my research interests include
+My research interest lies in developing models and algorithms leveraging operations research and machine learning for real-world decision-making problems. Specifically, I regard answering the following question as my academic goal: how to combine operations research and machine learning to design learning-based approaches that outperform traditional, optimization-driven methods? Overall, my research interests include
 
-**Methodology.** Stochastic and Robust Optimization, Machine Learning
+**Methodology.** Stochastic and Robust Optimization, Combinatorial Optimization, Machine Learning
 
 **Application.** Shared Mobility, Transportation, Logistics
 
