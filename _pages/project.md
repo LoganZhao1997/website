@@ -8,7 +8,7 @@ author_profile: true
 ------
 ## [Machine Learning for Combinatorial Optimization](https://www.ecole.ai/2021/ml4co-competition/)
 NeurIPS 2021 Competition, Jun 2021 ~ Oct 2021<br> 
-*Advisor*:  [Prof. Shipra Agrawa](https://www.engineering.columbia.edu/faculty/shipra-agrawal)<br> 
+*Advisor*:  [Prof. Shipra Agrawal](https://www.engineering.columbia.edu/faculty/shipra-agrawal)<br> 
 Collaborator: Abhi Gupta
 
 - Improved the branch-and-bound algorithm by replacing the heuristic branching policy with a sophisticatedly trained graph convolutional neural network model
