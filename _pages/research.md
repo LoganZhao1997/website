@@ -23,7 +23,7 @@ author_profile: true
 *Advisor*:  [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/)  
 Collaborator: Yikang Hua  
 
-- Proposed a robust and stochastic optimization model for a spatially distributed electric vehicle fleet w renewable energy integrated to serve as a backup reservation interfacing with transportation and power grid system
+- Proposed a robust and stochastic optimization model for a spatially distributed electric vehicle fleet with renewable energy integrated to serve as a backup reservation interfacing with transportation and power grid system
 - Developed a data-driven approach for constructing uncertainty set in robust optimization to deal with the temporal-spatial correlation in uncertain renewable energy generation and avoid over-conservative
 - Proved that the above robust and stochastic optimization model under correlated uncertainty can be linearized by adding auxiliary variables and extra constraints
 
