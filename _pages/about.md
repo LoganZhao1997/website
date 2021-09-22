@@ -24,13 +24,13 @@ My research interest lies in developing models and algorithms leveraging operati
 * Weifei Hu, **Wentao Zhao**, Yeqing Wang, Zhenyu Liu, Jin Cheng, Jianrong Tan, Design optimization of composite wind turbine blades considering tortuous lightning strike and non-proportional multi-axial fatigue damage, *Engineering Optimization*. [doi](https://doi.org/10.1080/0305215X.2019.1690649) 
 
 ### Conference
-* **Wentao Zhao**, Yikang Hua, Xin Wang,  Energy-sponge Electric Vehicle Sharing System Design, *Transportation Research Board 2021*. **(Post)** [POST](http://www.wentaozhao.org/files/TRB2021_post.pdf) 
+* **Wentao Zhao**, Yikang Hua, Xin Wang,  Energy-sponge Electric Vehicle Sharing System Design, *Transportation Research Board 2021*. **(Poster)** [POST](http://www.wentaozhao.org/files/TRB2021_post.pdf) 
 
 * Weifei Hu, **Wentao Zhao(Presenter)**, Yeqing Wang, Zhenyu Liu, Jianrong Tan,  Reliability Analysis of Wind Turbine Blades Considering Lightning Strike, *North America Wind Energy Academy WindTech 2019 Conference*. **(Presentation)** [PPT](http://www.wentaozhao.org/files/NAWEA_ppt.pdf) [doi](https://doi.org/10.1088/1742-6596/1452/1/012049) 
 
 
 ## PAPERS UNDER REVIEW
-* **Wentao Zhao**, Yikang Hua, Xin Wang, Energy-sponge Electric Vehicle Sharing System Design. (2020, submitted to *Transportation Research Part C: Emerging Technology*)
+* **Wentao Zhao**, Yikang Hua, Xin Wang, Energy-sponge Electric Vehicle Sharing System Design. (submitted to *Transportation Research Part C: Emerging Technology*, 2021)
 
 
 ## WORKING PAPERS 
