@@ -30,10 +30,10 @@ My research interest lies in developing models and algorithms leveraging operati
 
 
 ## PAPERS UNDER REVIEW
-* **Wentao Zhao**, Yikang Hua, Xin Wang, Energy-sponge Electric Vehicle Sharing System Design. (submitted to *Transportation Research Part C: Emerging Technology*, 2021)
+* **Wentao Zhao**, Yikang Hua, Xin Wang, Energy-sponge Electric Vehicle Sharing System Design. (Under 3rd round review at *Transportation Research Part C: Emerging Technology*, 2021)
 
 
 ## WORKING PAPERS 
-* **Wentao Zhao**, Yikang Hua, Xin Wang, Optimized Energy-Sponge Electric Vehicle Sharing System with Integration of Renewable Energy 
-* **Wentao Zhao**, Xuan Di, An End-to-End Machine Learning Approach for Vehicle Sharing System Operations
+* **Wentao Zhao**, Yikang Hua, Xin Wang, Optimized Energy-Sponge Electric Vehicle Sharing System with Integration of Renewable Energy. 
+* **Wentao Zhao**, Xuan Di, A Learn-Based Approach for Order-Pooling and Order-Dispatching in a Large-Scale Ride-Sharing System.
 
