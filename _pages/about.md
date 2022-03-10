@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. student in Industrial Engineering and Operations Research at Columbia University. I received my Bachelor's degree in Mechanical Engineering from Zhejiang University and was a visiting student at University of Wisconsin-Madison. My supervisors at three universities are [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di), [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/), and [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/), respectively. Click [here](http://www.wentaozhao.org/files/resume.pdf) to view my up-to-date resume. If you want to know more about me, please feel free to [contact me (wz2543@columbia.edu)](mailto:wz2543@columbia.edu).
+I will join the University of Southern California in the 2022 Fall as a Ph.D. student in Industrial and System Engineering under the supervision of [Prof. Maged M. Dessouky](https://viterbi.usc.edu/directory/faculty/Dessouky/Maged). I received my master's degree at Columbia University in Industrial Engineering and Operations Research. I received my Bachelor's degree in Mechanical Engineering from Zhejiang University and was a visiting student at the University of Wisconsin-Madison. My previous supervisors were [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di), [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/), and [Prof. Xin Wang](https://directory.engr.wisc.edu/ie/Faculty/Wang_Xin/). Click [here](http://www.wentaozhao.org/files/resume.pdf) to view my up-to-date resume. If you want to know more about me, please feel free to [contact me (wz2543@columbia.edu)](mailto:wz2543@columbia.edu).
 
 
 ## RESEARCH INTEREST
