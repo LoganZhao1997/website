@@ -10,10 +10,14 @@ redirect_from:
 ## CV
 {% include base_path %}
 
-[My Resume, updated in 2021/12/15](http://www.wentaozhao.org/files/resume.pdf)
+[My Resume, updated in 2023/01/01](http://www.wentaozhao.org/files/resume.pdf)
 
 ## Education
 
+* **Ph.D. in Industrial System Engineering, University of Southern California**  
+  Sept. 2022 ~ Now   
+  Advisors: [Prof. Maged Dessouky](https://viterbi.usc.edu/directory/faculty/Dessouky/Maged)
+  
 * **M.S. in Industrial Engineering and Operations Research, Columbia University**  
   Sept. 2020 ~ Dec. 2021   
   Courses: Linear Programming, Discrete Optimization, Convex Optimization, Machine Learning, Reinforcement Learning, Real Analysis<br>
@@ -24,7 +28,6 @@ redirect_from:
   Courses: Control Algorithm, Data Structure, mathematical modeling<br>
   Advisor: [Prof. Weifei Hu](https://person.zju.edu.cn/en/0018087/)
 
-	
 * **Visiting International Student in  Industrial Engineering, University of Wisconsin-Madison**  
   Jan. 2019 ~ Aug. 2019  
   Course: Stochastic Process, Simulation Modeling and Analysis, Decision Analysis<br>
