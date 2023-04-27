@@ -14,7 +14,7 @@ I a Ph.D. student in Industrial and System Engineering at the University of Sout
 ## RESEARCH INTEREST
 My research interest lies in developing models and algorithms leveraging operations research and machine learning for real-world decision-making problems. I regard answering the following question as my academic goal: how to design learning-based approaches for large-scale system so that they can outperform traditional, optimization-driven methods? Overall, my research interests include
 
-**Methodology.** Stochastic and Robust Optimization, Cooperative and Competitive Multi-Agent Reinforcement Learning
+**Methodology.** Combinatorial Optimization, Multi-Agent Reinforcement Learning
 
 **Application.** Shared Mobility, Supply Chain
 
