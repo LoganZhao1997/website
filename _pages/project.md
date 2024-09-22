@@ -15,7 +15,7 @@ Collaborator: Abhi Gupta, Sian Lee, Luocen Wang
 - Developed a training method in a combination of behavior cloning and parallel evolutionary algorithm
 - Designed and built a Singularity container for running and evaluating algorithms on the high-performance computing cluster
 
-<img width="300" height="240" src="http://www.wentaozhao.org/files/ml4co_pic.png">
+<img width="300" height="240" src="https://github.com/LoganZhao1997/website/blob/master/files/ml4co_pic.png">
 
 
 ## [Amazon Last Mile Routing Research Challenge](https://routingchallenge.mit.edu/)
@@ -27,5 +27,5 @@ Collaborator: Chen Jing, Yunhao Xing
 - Trained the model via reinforcement learning and imitation learning; Conducted experiments to compare different training methods<br>
 [certificate](http://www.wentaozhao.org/files/Certificate_of_Participation.pdf), 
 
-<img width="200" height="160" src="http://www.wentaozhao.org/files/last_mile_pic.jpg">
+<img width="200" height="160" src="https://github.com/LoganZhao1997/website/blob/master/files/last_mile_pic.jpg">
 
