@@ -31,9 +31,9 @@ My research interest lies in developing models and algorithms leveraging operati
 *	**Wentao Zhao**, Maged Dessouky, Multi-Agent Reinforcement Learning for Dynamic Electric Vehicle Sharing Relocation.
 
 ### Conference
-* **Wentao Zhao**, Yikang Hua, Xin Wang,  Energy-sponge Service in Electric Vehicle Sharing System, *Transportation Research Board 2021*. **(Poster)** [POST](http://www.wentaozhao.org/files/TRB2021_post.pdf) 
+* **Wentao Zhao**, Yikang Hua, Xin Wang,  Energy-sponge Service in Electric Vehicle Sharing System, *Transportation Research Board 2021*. **(Poster)** [POST](https://github.com/LoganZhao1997/website/blob/ddffc322138f0fb2a33cb5c9257ea758ed1f81c1/files/TRB2021_post.pdf) 
 
-* Weifei Hu, **Wentao Zhao(Presenter)**, Yeqing Wang, Zhenyu Liu, Jianrong Tan,  Reliability Analysis of Wind Turbine Blades Considering Lightning Strike, *North America Wind Energy Academy WindTech 2019 Conference*. **(Presentation)** [PPT](http://www.wentaozhao.org/files/NAWEA_ppt.pdf) [doi](https://doi.org/10.1088/1742-6596/1452/1/012049)
+* Weifei Hu, **Wentao Zhao(Presenter)**, Yeqing Wang, Zhenyu Liu, Jianrong Tan,  Reliability Analysis of Wind Turbine Blades Considering Lightning Strike, *North America Wind Energy Academy WindTech 2019 Conference*. **(Presentation)** [PPT](https://github.com/LoganZhao1997/website/blob/ddffc322138f0fb2a33cb5c9257ea758ed1f81c1/files/NAWEA_ppt.pdf) [doi](https://doi.org/10.1088/1742-6596/1452/1/012049)
 
 
 ## PRESENTATIONS
