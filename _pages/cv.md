@@ -10,13 +10,16 @@ redirect_from:
 ## CV
 {% include base_path %}
 
-[My Resume, updated in 2023/01/01](https://github.com/LoganZhao1997/website/blob/master/files/resume.pdf)
+[My Resume, updated in 2024/10/01](../files/WentaoZhao_resume.pdf)
 
 ## Education
 
 * **Ph.D. in Industrial System Engineering, University of Southern California**  
   Sept. 2022 ~ Now   
   Advisors: [Prof. Maged Dessouky](https://viterbi.usc.edu/directory/faculty/Dessouky/Maged)
+
+* **M.S. in Computer Science, University of Southern California**  
+  Sept. 2023 ~ Now   
   
 * **M.S. in Industrial Engineering and Operations Research, Columbia University**  
   Sept. 2020 ~ Dec. 2021   
@@ -35,7 +38,8 @@ redirect_from:
   
   
 ## Awards & Honors
-
+* **USC CURVE Fellowship** (fellowship for selected research mentors) 2023
+* **USC Graduate School Fellowship** (merit-based fellowship for selected PhD student) 2022
 * **Advanced Honor Class of Engineering Education** (Honor Program of Engineering College) 2020
 * **FESTO Scholarship for Outstanding Undergraduates** (10%, Mechanical Engineering Department Nomination), [The FESTO Scholarship](http://sklofp.zju.edu.cn/imce/2020/0602/c27873a2146402/page.htm) 2019
 * **Jingsheng Electromechanical Scholarship** (First Honor, 5%, selected excellent students). 2019
