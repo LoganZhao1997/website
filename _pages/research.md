@@ -12,12 +12,17 @@ author_profile: true
 
 Large-scale adoption of electric vehicles (EVs) can reduce greenhouse gas emissions and improve air quality. Nonetheless, a significant amount of EV batteries are expected to retire within five years, posing environmental and economic challenges regarding management and disposal. Implementing a closed-loop supply chain (CLSC) network is a promising strategy. The core idea is to enhance battery utilization and reuse valuable resources. In this work, we develop a joint optimization framework for the CLSC network design and operations problem where two levels of decisions in different time resolutions are periodically optimized. At the upper level, we formulate a backward dynamic programming model to design a capacity expansion and facility-building policy for the CLSC to cope with the uncertainties from markets and politics. At the lower level, we formulate a stochastic multi-stage stochastic programming model to optimize the daily operations of the CLSC and maximize the overall revenue under demand and supply uncertainties. Lastly, we use real-world datasets to validate the model and demonstrate the solution approach. 
 
+<img width="800" height="640" src="../files/CLSC.png"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
+
 
 ## Multi-Agent Reinforcement Learning for Dynamic EV-Sharing Relocation
 *University of Southern California, Dec. 2023 ~ Now*
 *Advisor*:  [Prof. Maged Dessouky](https://viterbi.usc.edu/directory/faculty/Dessouky/Maged)
 
 We study the dynamic relocation problem of an electric vehicle (EV) sharing system that provides on-demand mobility service. Our research aims to obtain a high-quality real-time relocation strategy for a widely distributed large-scale shared EV network to cope with stochastic demand and computational challenges due to the curse of dimensionality. Specifically, we propose a decentralized two-stage decision-making scheme. In the first stage, we develop a multi-agent reinforcement learning framework that treats each EV-gathering station as an agent to determine its relocation requests. In the second stage, we transform the individual relocation requests into a feasible relocation strategy that satisfies system-wide constraints, like fleet conservation, by solving an auxiliary optimization problem. Lastly, we evaluate our method by comparing it with several optimization-based and learning-based approaches in terms of solution quality and efficiency based on real-world data. 
+
+<img width="400" height="320" src="../files/MARK_stage1.png">
+<img width="400" height="320" src="../files/MARL_stage2.png">
 
 
 ## A Learn-Based Approach for Order-Pooling and Order-Dispatching in a Large-Scale Ride-Sharing System
