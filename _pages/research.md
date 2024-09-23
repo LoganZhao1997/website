@@ -27,7 +27,7 @@ We study the dynamic relocation problem of an electric vehicle (EV) sharing syst
 
 ## A Learn-Based Approach for Order-Pooling and Order-Dispatching in a Large-Scale Ride-Sharing System
 *Columbia University, Jun. 2021 ~ Dec. 2021*  
-*Advisor*:  [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di)
+*Advisor*:  [Prof. Sharon Di](https://www.engineering.columbia.edu/faculty-staff/directory/sharon-di)
 
 In this work, we work on designing a centralized management strategy for the
 online platform to solve the two-phase dynamic ride-sharing matching
