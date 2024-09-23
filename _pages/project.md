@@ -20,7 +20,7 @@ Collaborator: Abhi Gupta, Sian Lee, Luocen Wang
 
 ## [Amazon Last Mile Routing Research Challenge](https://routingchallenge.mit.edu/)
 Amazon & MIT Research Challenge, Mar 2021 ~ Jun 2021  
-*Advisor*:  [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di)<br>
+*Advisor*:  [Prof. Sharon Di](https://www.engineering.columbia.edu/faculty-staff/directory/sharon-di)<br>
 Collaborator: Chen Jing, Yunhao Xing
 
 - Realized an attention model in the Transformer architecture for route optimization problems under realistically sized problem instances
