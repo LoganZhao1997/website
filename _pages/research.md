@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ------
+## A Backward Approximate Dynamic Programming Model for Closed-Loop Supply Chain Network Design
+* University of Southern California, Dec. 2023 ~ Now*  
+*Advisor*:  [Prof. Maged Dessouky](https://viterbi.usc.edu/directory/faculty/Dessouky/Maged)
+
+
 ## A Learn-Based Approach for Order-Pooling and Order-Dispatching in a Large-Scale Ride-Sharing System
 *Columbia University, Jun. 2021 ~ Dec. 2021*  
 *Advisor*:  [Prof. Sharon Di](https://www.civil.columbia.edu/faculty/sharon-di)
