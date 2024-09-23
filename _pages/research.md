@@ -20,7 +20,7 @@ author_profile: true
 - Developed a ride-sharing simulation environment leveraging the historical taxi data in New York for testing different management strategies
 - Conducted a series of numerical experiments and showed that the proposed method outperformed the traditional heuristic algorithm regarding customer satisfaction and computation efficiency
 
-![My Profile Picture](../files/ML_rideshare.PNG)
+![My Profile Picture (test)](../files/ML_rideshare.PNG)
 <img width="800" height="640" src="https://github.com/LoganZhao1997/website/blob/5bcc3fc87f0a1e4aa56c80b3a60a5e0fe92dee15/files/ML_rideshare.PNG"> 
 ([source](https://arxiv.org/pdf/1912.08066.pdf))
 
