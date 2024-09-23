@@ -9,12 +9,14 @@ author_profile: true
 ## A Backward Approximate Dynamic Programming Model for Closed-Loop Supply Chain Network Design
 *University of Southern California, Dec. 2023 ~ Now*  
 *Advisor*:  [Prof. Maged Dessouky](https://viterbi.usc.edu/directory/faculty/Dessouky/Maged)
+
 Large-scale adoption of electric vehicles (EVs) can reduce greenhouse gas emissions and improve air quality. Nonetheless, a significant amount of EV batteries are expected to retire within five years, posing environmental and economic challenges regarding management and disposal. Implementing a closed-loop supply chain (CLSC) network is a promising strategy. The core idea is to enhance battery utilization and reuse valuable resources. In this work, we develop a joint optimization framework for the CLSC network design and operations problem where two levels of decisions in different time resolutions are periodically optimized. At the upper level, we formulate a backward dynamic programming model to design a capacity expansion and facility-building policy for the CLSC to cope with the uncertainties from markets and politics. At the lower level, we formulate a stochastic multi-stage stochastic programming model to optimize the daily operations of the CLSC and maximize the overall revenue under demand and supply uncertainties. Lastly, we use real-world datasets to validate the model and demonstrate the solution approach. 
 
 
 ## Multi-Agent Reinforcement Learning for Dynamic EV-Sharing Relocation
 *University of Southern California, Dec. 2023 ~ Now*
 *Advisor*:  [Prof. Maged Dessouky](https://viterbi.usc.edu/directory/faculty/Dessouky/Maged)
+
 We study the dynamic relocation problem of an electric vehicle (EV) sharing system that provides on-demand mobility service. Our research aims to obtain a high-quality real-time relocation strategy for a widely distributed large-scale shared EV network to cope with stochastic demand and computational challenges due to the curse of dimensionality. Specifically, we propose a decentralized two-stage decision-making scheme. In the first stage, we develop a multi-agent reinforcement learning framework that treats each EV-gathering station as an agent to determine its relocation requests. In the second stage, we transform the individual relocation requests into a feasible relocation strategy that satisfies system-wide constraints, like fleet conservation, by solving an auxiliary optimization problem. Lastly, we evaluate our method by comparing it with several optimization-based and learning-based approaches in terms of solution quality and efficiency based on real-world data. 
 
 
@@ -51,6 +53,6 @@ Rather than traditional vehicle sharing, a shared Electric Vehicle (EV) fleet cr
 This article presents a design optimization framework which integrates realistic lightning strike electrostatic and fatigue analyses for designing reliable and economical composite wind turbine blades. The novel aspects of this work include: a parametric tortuous lightning stepped leader model that reflects one of the true natural characteristics of the lightning phenomenon; and characterization of both the lightning strike dielectric breakdown failure and multi-axial fatigue failure mechanisms for structural design of composite wind turbine blades. A case study of the structural design optimization of a 5 MW composite wind turbine blade is tested using the framework with two optimization solvers: sequential quadratic programming (SQP) and Bayesian optimization (BO). SQP produces a superior optimal design to BO. In the optimum blade design based on the SQP algorithm, the lightning safety ratio increased by 32% and the expected fatigue life increased more than 15 times compared with the initial blade design.
 
 <figure class="half">
-  <img width="80" height="64" src="../files/WindTurbine.png">
-  <img width="100" height="80" src="../files/wind_Turbine.png">
+  <img width="60" height="48" src="../files/WindTurbine.png">
+  <img width="80" height="64" src="../files/wind_Turbine.png">
 </figure>
