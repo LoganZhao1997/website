@@ -20,9 +20,7 @@ author_profile: true
 - Developed a ride-sharing simulation environment leveraging the historical taxi data in New York for testing different management strategies
 - Conducted a series of numerical experiments and showed that the proposed method outperformed the traditional heuristic algorithm regarding customer satisfaction and computation efficiency
 
-![My Profile Picture (test)](../files/ML_rideshare.PNG)
-<img width="800" height="640" src="../files/ML_rideshare.PNG"> 
-([source](https://arxiv.org/pdf/1912.08066.pdf))
+<img width="800" height="640" src="../files/ML_rideshare.PNG"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
 
 
 ## Optimized Energy-Spong Electric Vehicle Sharing System with Integration of Renewable Energy
@@ -34,7 +32,7 @@ Collaborator: Yikang Hua
 - Developed a data-driven approach for constructing uncertainty set in robust optimization to deal with the temporal-spatial correlation in uncertain renewable energy generation and avoid over-conservative
 - Proved that the above robust and stochastic optimization model under correlated uncertainty could be linearized by adding auxiliary variables and extra constraints
 
-<img width="400" height="320" src="https://github.com/LoganZhao1997/website/blob/master/files/EVS_renewable_energy.png">
+<img width="400" height="320" src="../files/EVS_renewable_energy.png">
 
 
 ## Energy-Sponge Electric Vehicle Sharing System Design
@@ -46,7 +44,7 @@ Collaborator: Yikang Hua
 - Implemented a two-stage stochastic model for electric vehicle sharing management incorporating the uncertainty of customer demand in spatiality, temporality, and quantity
 - Built and solved the stochastic model via Sample Average Approximation method using Python and Gurobi; Conducted a case study in Austin to demonstrate the managerial insights
 
-<img width="400" height="320" src="https://github.com/LoganZhao1997/website/blob/master/files/EVS.jpg">
+<img width="400" height="320" src="../files/EVS.jpg">
 
 
 ## Design Optimization of Composite Wind Turbine Blades
@@ -58,6 +56,6 @@ Collaborator: Yikang Hua
 - Conducted a case study of the structural design optimization of a 5 MW composite wind turbine blade using the above optimization framework written by MATLAB
 
 <figure class="half">
-  <img width="80" height="64" src="https://github.com/LoganZhao1997/website/blob/master/files/WindTurbine.png">
-  <img width="100" height="80" src="https://github.com/LoganZhao1997/website/blob/master/files/wind_Turbine.png">
+  <img width="80" height="64" src="../files/WindTurbine.png">
+  <img width="100" height="80" src="../files/wind_Turbine.png">
 </figure>
