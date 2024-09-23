@@ -10,7 +10,7 @@ redirect_from:
 ## CV
 {% include base_path %}
 
-[My Resume, updated in 2023/01/01](http://www.wentaozhao.org/files/resume.pdf)
+[My Resume, updated in 2023/01/01](https://github.com/LoganZhao1997/website/blob/master/files/resume.pdf)
 
 ## Education
 
