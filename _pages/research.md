@@ -15,7 +15,9 @@ author_profile: true
 - Developed a ride-sharing simulation environment leveraging the historical taxi data in New York for testing different management strategies
 - Conducted a series of numerical experiments and showed that the proposed method outperformed the traditional heuristic algorithm regarding customer satisfaction and computation efficiency
 
-<img width="800" height="640" src="https://github.com/LoganZhao1997/website/blob/master/files/ML_rideshare.PNG"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
+![My Profile Picture](https://github.com/LoganZhao1997/website/blob/master/files/ML_rideshare.PNG)
+<img width="800" height="640" src="https://github.com/LoganZhao1997/website/blob/master/files/ML_rideshare.PNG"> 
+([source](https://arxiv.org/pdf/1912.08066.pdf))
 
 
 ## Optimized Energy-Spong Electric Vehicle Sharing System with Integration of Renewable Energy
