@@ -12,7 +12,7 @@ author_profile: true
 
 Large-scale adoption of electric vehicles (EVs) can reduce greenhouse gas emissions and improve air quality. Nonetheless, a significant amount of EV batteries are expected to retire within five years, posing environmental and economic challenges regarding management and disposal. Implementing a closed-loop supply chain (CLSC) network is a promising strategy. The core idea is to enhance battery utilization and reuse valuable resources. In this work, we develop a joint optimization framework for the CLSC network design and operations problem where two levels of decisions in different time resolutions are periodically optimized. At the upper level, we formulate a backward dynamic programming model to design a capacity expansion and facility-building policy for the CLSC to cope with the uncertainties from markets and politics. At the lower level, we formulate a stochastic multi-stage stochastic programming model to optimize the daily operations of the CLSC and maximize the overall revenue under demand and supply uncertainties. Lastly, we use real-world datasets to validate the model and demonstrate the solution approach. 
 
-<img width="800" height="640" src="../files/CLSC.png"> ([source](https://arxiv.org/pdf/1912.08066.pdf))
+<img width="400" height="320" src="../files/CLSC.png"> 
 
 
 ## Multi-Agent Reinforcement Learning for Dynamic EV-Sharing Relocation
