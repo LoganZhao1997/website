@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
-## CV
+## Resume
 {% include base_path %}
 
-[My Resume, updated in 2024/10/01](https://loganzhao1997.github.io/website/files/WentaoZhao_resume.pdf)
+[My Resume, updated in 2024/11/01](https://loganzhao1997.github.io/website/files/WentaoZhao_resume.pdf)
 
 
 ## Education
